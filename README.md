@@ -14,5 +14,7 @@ entered number is  77
 Final product is  8
 Number of iteration is  4
 
+result_sample
+
 
 
