@@ -14,7 +14,6 @@ entered number is  77
 Final product is  8
 Number of iteration is  4
 
-result_sample
-
+https://github.com/HenLabImaging/factorto_smallestint/issues?q=is%3Aopen+is%3Aissue
 
 
