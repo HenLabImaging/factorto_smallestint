@@ -14,5 +14,5 @@ entered number is  77
 Final product is  8
 Number of iteration is  4
 
-[image]({https://cloud.githubusercontent.com/assets/10050249/22581983/c2238a8e-e998-11e6-839e-6de666070ad3.png})
+[image](https://{cloud.githubusercontent.com/assets/10050249/22581983/c2238a8e-e998-11e6-839e-6de666070ad3.png})
 
