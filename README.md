@@ -9,10 +9,16 @@ Usage:
 			 any entry will be true
 
 Example:
-run digit_simplicity.py 77 tr
+run digits_implicity.py 77 tr
 entered number is  77
 Final product is  8
 Number of iteration is  4
 
 [preview an example](https://cloud.githubusercontent.com/assets/10050249/22581983/c2238a8e-e998-11e6-839e-6de666070ad3.png)
+
+
+Error checksums:
+	1-Has to be an integer entry:
+	2-Integer must require min 2 digits, but more is optional
+	3-Whenever product comes '0', cycle is terminated as a final product!
 
